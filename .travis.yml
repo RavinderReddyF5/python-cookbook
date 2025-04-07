@@ -6,4 +6,5 @@ install:
   - pip install requests
 
 script:
+  - echo "python --version"
   - python --version
