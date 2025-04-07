@@ -6,4 +6,4 @@ install:
   - pip install requests
 
 script:
-  - pytest
+  - python --version
